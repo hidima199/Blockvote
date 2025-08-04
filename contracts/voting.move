@@ -1,0 +1,5 @@
+module blockvote::voting {
+    public entry fun cast_vote(account: &signer, choice: u8) {
+        // Voting logic here
+    }
+}
