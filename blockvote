@@ -1,0 +1,49 @@
+# BlockVote 🗳️
+
+BlockVote is a decentralized and secure voting platform built on the **Aptos blockchain** using the **Move smart contract language**. It enables communities, organizations, and DAOs to conduct transparent, tamper-proof elections that are verifiable, auditable, and immutable.
+
+## 🔍 Why BlockVote?
+
+Traditional voting systems are prone to:
+
+- Vote manipulation
+- Centralized control
+- Lack of transparency
+- Voter exclusion
+
+BlockVote solves these problems by leveraging the power of blockchain to guarantee:
+
+✅ Transparent results  
+✅ Immutable records  
+✅ Anonymous and verifiable votes  
+✅ Decentralized trust
+
+## 🚀 Features
+
+- 🧱 Built on Aptos with Move  
+- 🌐 Fully decentralized voting  
+- 🔒 End-to-end vote encryption  
+- 👥 Supports DAOs, student unions, NGOs, and cooperatives  
+- 🧠 Optional AI module for:
+  - Detecting abnormal voting behavior  
+  - Predicting turnout trends  
+  - Real-time election analytics  
+
+## 📦 Tech Stack
+
+| Layer           | Technology                |
+|----------------|---------------------------|
+| Blockchain      | Aptos                    |
+| Smart Contracts | Move                     |
+| Frontend        | React (Planned)          |
+| Wallet          | Martian, Petra           |
+| AI Module       | Python (Planned)         |
+
+## 📂 Project Structure
+
+```bash
+blockvote/
+├── contracts/          # Move smart contracts
+├── frontend/           # (Planned) Web interface
+├── scripts/            # Voting simulation scripts
+└── README.md           # This file
